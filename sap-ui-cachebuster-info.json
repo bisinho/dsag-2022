@@ -1,0 +1,18 @@
+{
+  "Component-preload.js": 1653908244929,
+  "Component.js": 1645451985334,
+  "utils/locate-reuse-libs.js": 1645451985350,
+  "model/models.js": 1645451985346,
+  "controller/View1.controller.js": 1645451985354,
+  "manifest.json": 1653908244412,
+  "manifest-bundle.zip": 1653908244433,
+  "i18n/i18n.properties": 1645451985346,
+  "model/models-dbg.js": 1645451985346,
+  "utils/locate-reuse-libs-dbg.js": 1645451985350,
+  "controller/View1-dbg.controller.js": 1645451985354,
+  "Component-dbg.js": 1645451985334,
+  "view/View1.view.xml": 1645451985354,
+  "css/style.css": 1645451985350,
+  "index.html": 1645451985338,
+  "health-check.html": 1653908219651
+}
